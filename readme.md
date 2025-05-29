@@ -1,3 +1,5 @@
+> **Note:** This repository is a personal backup of coursework originally developed as part of my studies at Cornerstone College. It was cloned from a institutional and private repository to preserve my contributions and development history.
+
 # JavaScript Prototype Chaining Exercise
 
 In this exercise, you will explore and practice prototype chaining in JavaScript. Prototype chaining is a crucial concept in JavaScript, allowing objects to inherit properties and methods from their prototypes, creating a chain of inheritance.
@@ -35,4 +37,3 @@ You are tasked with creating a prototype chain for a simple banking system. You'
 2. Implement prototype chaining so that `SavingsAccount` and `CheckingAccount` inherit from the `Account` constructor.
 
 3. Create instances of each class and demonstrate their functionality. For example, create a savings account, deposit money, add interest, and withdraw funds. Similarly, create a checking account, deposit money, and withdraw using a check.
-
